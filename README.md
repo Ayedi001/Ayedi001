@@ -20,15 +20,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ayedi001&theme=onedark&row=2&column=3" alt="Ayedi001" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **deep learning | Transformers**
+- 🔭 I’m currently working on **Web Developpment**
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently learning **Node.js - React Native**
 
-- 👯 I’m looking to collaborate on **deep learning projects**
+- 🤝 I’m looking for help with **building a Web App**
 
-- 🤝 I’m looking for help with **building a transformer using pytorch**
-
-- 💬 Ask me about **quantum computing ⚛️**
 
 - 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/marwen-ayedi-1a9513209?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marwen-ayedi-1a9513209/)](https://www.linkedin.com/in/marwen-ayedi-1a9513209/) [![Twitter Badge](https://img.shields.io/badge/-@marwen_ayedi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marwen_ayedi)](https://twitter.com/marwen_ayedi)**
 
